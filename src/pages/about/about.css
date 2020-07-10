@@ -1,0 +1,25 @@
+.about .container {
+    color: #000;
+    text-align: left;
+}
+
+.about h2 {
+    font-size: 34px;    
+    margin: 50px 0px 25px 0px;
+}
+
+.about p {
+    font-size: 18px;
+    margin: 0px 0px 15px 40px;
+    line-height: 1.6em;
+}
+
+.about ul {
+    list-style: none;
+}
+
+.about li {
+    font-size: 18px;
+    margin: 0px 0px 10px 0px;
+    line-height: 1.6em;
+}

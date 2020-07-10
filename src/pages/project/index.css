@@ -1,0 +1,40 @@
+.project {
+    padding: 40px;
+    text-align: center;
+}
+
+.project__screenshot {
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.project__title {
+    margin: 20px 0;
+}
+
+.project__description {
+    margin: 20px 0;
+}
+
+.project__stack {
+    color: #b3b3b3;
+    font-style: italic;
+    margin: 20px 0;
+}
+
+.project__link {
+    text-decoration: none;
+    padding: 2px 20px 7px 20px;
+    border: 2px #000 solid;
+    border-radius: 2px;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    transition: all .5s ease;
+}
+
+.project__link:hover {
+    background-color: #000;
+    color: #fff;
+    transition: all .5s ease;
+}
