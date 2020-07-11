@@ -11,14 +11,14 @@ class ProjectPage extends React.Component {
 
     componentDidMount() {
         const id = this.props.match.params.id;
-        setTimeout(() => {
+        // setTimeout(() => {
             const project = works.find(work => work.id === id);
 
             this.setState({
                 project: project,
                 error: !project
             });
-        }, 1000);
+        // }, 1000);
     }
 
     render() {

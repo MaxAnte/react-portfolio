@@ -10,16 +10,20 @@
 
 .project__title {
     margin: 20px 0;
+    line-height: 1em;
 }
 
 .project__description {
-    margin: 20px 0;
+    margin: 20px auto 0px;
+    line-height: 1.6em;
+    font-size: 18px;
+    width: 80%;
 }
 
 .project__stack {
     color: #b3b3b3;
     font-style: italic;
-    margin: 20px 0;
+    margin: 20px 0px 40px 0px;
 }
 
 .project__link {
@@ -37,4 +41,32 @@
     background-color: #000;
     color: #fff;
     transition: all .5s ease;
+}
+
+@media screen and (max-width: 768px) {
+    .project__title {
+        font-size: 24px;
+    }
+    .project__description {
+        font-size: 20px;
+    }
+    .project__stack {
+        font-size: 18px;
+    }
+    .project__link {
+        font-size: 20px;
+    }
+    
+    .project__description {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .project {
+        padding: 20px;
+    }
+    .project__screenshot {
+        max-width: 100%;
+    }
 }

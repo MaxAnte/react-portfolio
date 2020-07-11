@@ -9,22 +9,25 @@ class AboutPage extends React.Component {
                 <div className='container'>
                     <h2>Who am I?</h2>
 
-                    <p>A highly-organized UI/UX design agency located in Kiev, Ukraine. Founded in 2010, we have gone on to work with more than 300 clients.</p>
-                    <p>There are many websites and many apps out there on the virtual stage and just as many designers to create them for you. Where we make a difference is in helping 
-                        you stand out among the masses and make an impact that increases your sales and drives business opportunities to you.</p>
-                    <p>We ensure project success by providing a collaborative team environment on every project and an agile workflow to deliver quality work in quick turnaround 
-                        time frames.</p>
-                    <p>We love what we do and enjoy helping our clients find solutions to any difficulties or challenges any project may offer.</p>
-                    <p>Top Rated By Upwork: https://www.upwork.com/o/companies/_~01b04eb401079937d2/</p>
+                    <p>Hi! I am Max, from Vinnitsa, Ukraine.</p>
+                    <p>Working in Web development since 2016, on UpWork since 2018. Have been working with more than 25 clients on a regular basis for 2 years and we have 
+                        accomplished really good results. Sites are top-rated in their fields, have a good conversion and sales.</p>
+                        
+                    <h2>What I propose you?</h2>
+
+                    <p>I will help you stand out among the masses and make an impact that increases your sales and drives business opportunities to you.</p>
+                    <p>I ensure project success by providing collaborative actions, and the environment on every project and an agile workflow to deliver 
+                        quality work in quick turnaround time frames.</p>
+                    <p>I love what I do and enjoy helping my clients find solutions to any difficulties or challenges any project may offer.</p>
+                    <p>Upwork Account: <a href='https://www.upwork.com/freelancers/~01f617f68227219464'>https://www.upwork.com/freelancers/~01f617f68227219464</a></p>
 
                     <h2>Skills & Expertise:</h2>
                     <ul>
-                        <li>- UX/UI Design</li>
-                        <li>- Web Design</li>
-                        <li>- Logo Design</li>
-                        <li>- Game desig</li>
-                        <li>- Illustration</li>
-                        <li>- Motion design</li>
+                        <li>- HTML5, CSS3, SASS (SCSS), LESS markup and styling technologies</li>
+                        <li>- JavaScript, jQuery, Vue.js, React.js front-end technologies</li>
+                        <li>- Node.js, PHP, MySQL back-end technologies</li>
+                        <li>- Shopify platform Expert level</li>
+                        <li>- Photoshop, Sketch, Figma, Illustrator, Adobe XD</li>
                     </ul>
                 </div>
             </div>

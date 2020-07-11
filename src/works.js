@@ -24,7 +24,7 @@ export default [
         id: 'project-1',
         title: 'Soleheaven',
         screenshot: spa1,
-        description: 'Kickz store.',
+        description: 'The first one on UpWork. And first work with Shopify. The main objective of the task was to redesign and rework the homepage which was done great!.',
         link: 'https://www.soleheaven.com/',
         stack: ['Shopify', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -32,7 +32,7 @@ export default [
         id: 'project-2',
         title: 'Sting Sports',
         screenshot: spa2,
-        description: 'Boxing store.',
+        description: 'The second project and already the big one. The objective was to rework the layout of the whole site and add new functionality.',
         link: 'https://www.stingsports.com/',
         stack: ['Shopify', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -40,7 +40,7 @@ export default [
         id: 'project-3',
         title: 'Butterflytwists',
         screenshot: spa3,
-        description: 'Fashion store setup.',
+        description: 'Fashion store setup. The mission was to get ready for the site to deploy.',
         link: 'https://butterflytwists.com/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -128,7 +128,7 @@ export default [
         id: 'project-14',
         title: 'FAIA Place',
         screenshot: spa14,
-        description: 'Atmospheric summer campfires store.',
+        description: 'The very quick time frame project. The client needed the work done in 3 days and the task was to migrate WordPress site to Shopify. Quick and stressful job but it was done in time and the client was very happy.',
         link: 'https://www.faia-place.com/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -136,7 +136,7 @@ export default [
         id: 'project-15',
         title: 'Wondermind',
         screenshot: spa15,
-        description: 'Kids books and colorbooks store.',
+        description: 'Amazing one! A lot of work has been done there! I have been provided with the big Figma file that included 10+ pages and templates which were needed to be created from scratch.',
         link: 'https://www.wondermind.org/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -144,7 +144,7 @@ export default [
         id: 'project-16',
         title: 'Sleepy Owl',
         screenshot: spa16,
-        description: 'Tea store.',
+        description: 'Wonderful tea store. I have done a lot of front-end work that can be seen throughout the whole store.',
         link: 'https://sleepyowl.co/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -152,7 +152,7 @@ export default [
         id: 'project-17',
         title: 'Elizbeth Scarlett',
         screenshot: spa17,
-        description: 'Pouches store.',
+        description: 'This store sells the pouches with the unique monograms. My job was to redo some mobile views at a couple of pages and implement the monogramming service.',
         link: 'https://elizabethscarlett.com/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -160,7 +160,7 @@ export default [
         id: 'project-18',
         title: 'Wallpaper Calculating App',
         screenshot: spa18,
-        description: 'Wallpaper Calculating App development.',
+        description: 'The Client offers me to do an app (or snippet) to his Shopify store product page that will calculate squared meters by typed length and height.',
         link: 'https://maisomio.myshopify.com/collections/frontpage/products/test-wallpaper',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -168,7 +168,7 @@ export default [
         id: 'project-19',
         title: 'Stellar Theme',
         screenshot: spa19,
-        description: 'Shopify Theme Development.',
+        description: 'Special project. The task was to create and get ready the theme to approve by the Shopify team and commercial setup.',
         link: 'https://stellartheme.myshopify.com/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
@@ -177,7 +177,7 @@ export default [
         id: 'project-20',
         title: 'Showfields',
         screenshot: spa20,
-        description: 'Special store',
+        description: 'That project was really incredible! Very special site. My job was to remake all existing pages, add new functions, deal with the difficult tasks caused by the Shopify liquid possibilities.',
         link: 'https://showfields.com/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     }
