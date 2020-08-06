@@ -18,6 +18,7 @@ import spa17 from './img/screenshots/project-17.jpg';
 import spa18 from './img/screenshots/project-18.jpg';
 import spa19 from './img/screenshots/project-19.jpg';
 import spa20 from './img/screenshots/project-20.jpg';
+import spa21 from './img/screenshots/project-21.jpg';
 
 export default [
     {
@@ -172,7 +173,6 @@ export default [
         link: 'https://stellartheme.myshopify.com/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
     },
-
     {
         id: 'project-20',
         title: 'Showfields',
@@ -180,5 +180,13 @@ export default [
         description: 'That project was really incredible! Very special site. My job was to remake all existing pages, add new functions, deal with the difficult tasks caused by the Shopify liquid possibilities.',
         link: 'https://showfields.com/',
         stack: ['Shopify', 'Shopify API', 'html5', 'css5', 'scss', 'js', 'jQuery']
+    },
+    {
+        id: 'project-21',
+        title: 'COVID-19 Global Tracker',
+        screenshot: spa21,
+        description: 'The Global COVID-19 illness tracker that tracks the number of infected, recovered, and dead people. You can choose and see the stats of different countries. Powered by React.',
+        link: 'https://mz-covid19-global-tracker.herokuapp.com/',
+        stack: ['React', 'API', 'MaterialUI', 'html5', 'css5', 'scss', 'js' ]
     }
 ];
